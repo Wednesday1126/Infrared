@@ -1,0 +1,5 @@
+label 1 is sample with Υ-PGA；
+label 2 is sample without Υ-PGA；
+
+step 1：use GAS.py to make sprctrums transfrom to images;
+step 2: use qcnn2 to train
